@@ -1,5 +1,5 @@
 # SARS-CoV-2
-Updated literature review on our current knowledge about the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+Updated literature review on our current knowledge about the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).<br>
 This page will be updated as new papers will be published.<br>
 The idea is to have a clear, essential, unbiased, rigorous and simple collection of information from primary sources for both the scientific community and the general public.
 
@@ -21,6 +21,24 @@ NPR means "Not Peer Reviewed".
 - ``Yes`` [20/03/10](https://doi.org/10.1101/2020.03.08.982637) (NPR)
 - ``No`` [20/03/04](https://doi.org/10.1001/jama.2020.3227)
 
+## Classification
+- ``Superkingdom:`` Viruses
+- ``Realm:`` Riboviria
+- ``Order:`` Nidovirales
+- ``Suborder:`` Cornidovirineae
+- ``Family:`` Coronaviridae
+- ``Subfamily:`` Orthocoronavirinae
+- ``Genus:`` Betacoronavirus
+- ``Subgenus:`` Sarbecovirus
+- ``Species:`` Severe acute respiratory syndrome-related coronavirus
+- ``Strain:``	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+- ``Synonyms:`` HCoV-19, 2019-nCoV, SARS2, COVID-19 virus, Wuhan coronavirus, Human coronavirus 2019
+
+[Lineage Source](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049)
+
+## Genome
+- Size: ``29903 bp`` [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+- Full sequence: [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta)
 
 
 
