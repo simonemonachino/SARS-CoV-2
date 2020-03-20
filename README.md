@@ -5,7 +5,7 @@ The idea is to have a clear, essential, unbiased, rigorous and simple collection
 
 If you would like to contribute to the project, send an email to <simone.monachino@studenti.unitn.it>
 
-Note: The dates after the values specify when the article was posted and their links redirect to the DOI of the paper.<br>
+Note: The dates (yy/mm/dd) specify when the article was posted and their links redirect to the DOI of the paper.<br>
 NPR means "Not Peer Reviewed".
 
 ## Basic Reproduction Number (R0)
