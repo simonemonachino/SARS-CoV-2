@@ -18,7 +18,7 @@ NPR means "Not Peer Reviewed".
 - ``Range = 2.1 - 11.1 days. Mean = 6.4 days (n =  88)`` [20/02/06](https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000062)
 - ``Range = 4.1 - 7.00 days. Mean = 5.2 days (n = 425)`` [20/01/29](https://doi.org/10.1056/NEJMoa2001316)
 
-## Detected presence in Aerosol
+## Detected presence in Aerosol (airborne transmissibility)
 - ``Yes (After 3 Hours. Half-life = 1.1 hours)`` [20/03/17](https://doi.org/10.1101/2020.03.09.20033217) (NPR)
 - ``Yes`` [20/03/10](https://doi.org/10.1101/2020.03.08.982637) (NPR)
 - ``No`` [20/03/04](https://doi.org/10.1001/jama.2020.3227)
@@ -37,6 +37,9 @@ NPR means "Not Peer Reviewed".
 - ``4.24 % (2.58 – 6.87)`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
 - ``2.3 %``[20/02/29](https://doi.org/10.3855/jidc.12600)
 - ``2.3 %``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
+
+## Asymptomatic transmission
+- ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
 ## Classification
 - ``Superkingdom:`` Viruses
