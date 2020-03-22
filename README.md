@@ -19,7 +19,7 @@ NPR means "Not Peer Reviewed".
 - ``Range = 4.1 - 7.00 days. Mean = 5.2 days (n = 425)`` [20/01/29](https://doi.org/10.1056/NEJMoa2001316)
 
 ## Detected presence in Aerosol (airborne transmissibility)
-- ``Yes (After 3 Hours. Half-life = 1.1 hours)`` [20/03/17](https://doi.org/10.1101/2020.03.09.20033217) (NPR)
+- ``Yes (Up to 3 Hours. Half-life = 1.1 hours)`` [20/03/17](https://doi.org/10.1101/2020.03.09.20033217) (NPR)
 - ``Yes`` [20/03/10](https://doi.org/10.1101/2020.03.08.982637) (NPR)
 - ``No`` [20/03/04](https://doi.org/10.1001/jama.2020.3227)
 
