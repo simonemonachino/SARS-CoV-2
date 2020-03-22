@@ -34,7 +34,7 @@ NPR means "Not Peer Reviewed".
 - ``Yes (in Homo sapiens)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226)
 
 ## Case Fatality Rate (CFR) estimates
-- ``4.24 % (2.58 – 6.87)`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
+- ``Range: 0.25 % – 3.00 %`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
 - ``2.3 %``[20/02/29](https://doi.org/10.3855/jidc.12600)
 - ``2.3 %``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
 
