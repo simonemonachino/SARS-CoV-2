@@ -15,7 +15,7 @@ NPR means "Not Peer Reviewed".
 ## Incubation Period
 - ``Range = 2.0 - 7.00 days. Median = 4 days (n = 291)`` [20/02/28](https://doi/10.1056/NEJMoa2002032)
 - ``Range = 2.0 - 14.0 days. Mean = 5.6 days (n = 158)`` [20/02/17](https://doi.org/10.3390/jcm9020538)
-- ``Range = 2.1 - 11.1 days. Mean = 6.4 days (n =  88)`` [20/02/06](https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000062)
+- ``Range = 2.1 - 11.1 days. Mean = 6.4 days (n = 088)`` [20/02/06](https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000062)
 - ``Range = 4.1 - 7.00 days. Mean = 5.2 days (n = 425)`` [20/01/29](https://doi.org/10.1056/NEJMoa2001316)
 
 ## Detected presence in Aerosol (airborne transmissibility)
