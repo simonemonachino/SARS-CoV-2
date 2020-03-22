@@ -27,7 +27,7 @@ NPR means "Not Peer Reviewed".
 - ``No`` [20/03/04](https://doi.org/10.1001/jama.2020.3227)
 
 ## Case Fatality Rate (CFR) estimates
-- ``Range = 0.25 % - 3.0 %`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
+- ``4.24 % (2.58 – 6.87)`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
 - ``2.3 %``[20/02/29](https://doi.org/10.3855/jidc.12600)
 - ``2.3 %``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
 
