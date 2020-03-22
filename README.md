@@ -25,7 +25,7 @@ NPR means "Not Peer Reviewed".
 
 ## Viral Shedding
 - ``Range = 8 - 37 Days. Median: 20 Days. (n = 137)`` [20/03/11](https://doi.org/10.1016/S0140-6736(20)30566-3)
-- ``Range = 12 - 32 Days (n = 4)`` [20/02/27](https://doi.org/10.1001/jama.2020.2783
+- ``Range = 12 - 32 Days (n = 4)`` [20/02/27](https://doi.org/10.1001/jama.2020.2783)
 
 ## Observed possibility of Reinfection
 - ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
