@@ -30,15 +30,16 @@ NPR means "Not Peer Reviewed".
 ## Observed possibility of Reinfection
 - ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
 
-## Observed positive RT-PCR test results in patients recovered from COVID-19
-- ``Yes (in Homo sapiens)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226)
+## Observed positive test results in patients recovered from COVID-19 after resulting negative
+- ``Yes (RT-PCR)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226)
+- ``Yes (Stool) `` [20/03/14](https://doi.org/10.1053/j.gastro.2020.02.055)
 
 ## Case Fatality Rate (CFR) estimates
 - ``Range: 0.25 % – 3.00 %`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
 - ``2.3 %``[20/02/29](https://doi.org/10.3855/jidc.12600)
 - ``2.3 %``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
 
-## Asymptomatic transmission
+## Asymptomatic transmission (now widely recognized in the scientific community)
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
 ## Classification
