@@ -65,6 +65,7 @@ NPR means "Not Peer Reviewed".
 - ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
 
 ## Clinical trials of investigational vaccine for COVID-19
-- ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461)
-- ``LV-SMENP`` [Start: 24 March 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04276896)
+- ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461) (Phase 1)
+- ``LV-SMENP`` [Start: 24 March 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04276896) (Phase 1 - 2)
 - ``aAPC`` [Start: 15 February 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04299724)
+(Phase 1)
