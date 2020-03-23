@@ -3,7 +3,7 @@ Live literature review on our current knowledge about the Severe acute respirato
 This page will be updated as new papers will be published.<br>
 The idea is to have a clear, essential, unbiased, rigorous and simple collection of information from primary sources for both the scientific community and the general public.
 
-If you would like to contribute to the project, send an email to <simone.monachino@studenti.unitn.it>
+If you would like to contribute to the project, send improvements or corrections write an email to <simone.monachino@studenti.unitn.it>
 
 Note: The date (yy/mm/dd) specifies when the article was posted and its link redirects to the DOI of the paper.<br>
 NPR means "Not Peer Reviewed".
@@ -63,3 +63,8 @@ NPR means "Not Peer Reviewed".
 
 ## Potential Seasonal Behavior
 - ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
+
+## Clinical trials of investigational vaccine for COVID-19
+- ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461)
+- ``LV-SMENP`` [Start: 24 March 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04276896)
+- ``aAPC`` [Start: 15 February 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04299724)
