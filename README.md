@@ -70,3 +70,9 @@ NPR means "Not Peer Reviewed".
 - ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461) (Phase 1)
 - ``aAPC`` [Start: 15 February 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04299724)
 (Phase 1)
+
+## Clinical trials of investigational drugs for COVID-19
+-``Methylprednisolone`` [Start: 26 January 2020 - Estimated Completion: 25 December 2020](https://clinicaltrials.gov/ct2/show/NCT04316377) (Phase 2)
+-``Lopinavir/Ritonavir, Ribavirin and Interferon Beta-1B`` [Start: 10 February 2020 - Estimated Completion: 31 July 2022](https://clinicaltrials.gov/ct2/show/NCT04276688) (Phase 2)
+-``Vitamin C`` Start: [8 November 2018 - Estimated Completion: 31 December 2022](https://clinicaltrials.gov/ct2/show/NCT03680274) (Phase 3)
+-``Hydroxychloroquine`` [Start: 17 March 2020 - Estimated Completion: May 2021](https://clinicaltrials.gov/ct2/show/NCT04308668) (Phase 2)
