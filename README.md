@@ -1,7 +1,7 @@
 # SARS-CoV-2
 Live literature review on our current knowledge about the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).<br>
 This page will be updated as new papers will be published.<br>
-The idea is to have a clear, essential, unbiased, rigorous and simple collection of information from primary sources for both the scientific community and the general public.
+The idea is to have a clear, essential, unbiased, rigorous and simple collection of information from verified sources for both the scientific community and the general public.
 
 If you would like to contribute to the project, send improvements or corrections write an email to <simone.monachino@studenti.unitn.it>
 
@@ -35,9 +35,16 @@ NPR means "Not Peer Reviewed".
 - ``Yes (Stool) `` [20/03/14](https://doi.org/10.1053/j.gastro.2020.02.055)
 
 ## Case Fatality Rate (CFR) estimates
-- ``Range: 0.25 % – 3.00 %`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
-- ``2.3 %``[20/02/29](https://doi.org/10.3855/jidc.12600)
-- ``2.3 %``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
+- ``7.2 % (Italy)``[20/03/23](https://doi:10.1001/jama.2020.4683)
+- ``2.3 % (China)``[20/03/23](https://doi:10.1001/jama.2020.4683)
+- ``3.4 % (World)``[20/03/19](https://doi.org/10.1016/j.ijantimicag.2020.105947)
+- ``1.3 % (OECD countries)``[20/03/19](https://doi.org/10.1016/j.ijantimicag.2020.105947)
+- ``13.9 % (of hospitalized patients, World)`` [20/03/13](https://doi.org/10.1016/j.tmaid.2020.101623)
+- ``12.2 % (China, Wuhan)``[20/03/13](https://doi.org/10.3201/eid2606.200233)
+- ``0.43 % (China excluding Hubei Province)``[20/03/13](https://doi.org/10.3201/eid2606.200233)
+- ``Range: 0.25 % – 3.00 % (World)`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
+- ``2.3 % (China)``[20/02/29](https://doi.org/10.3855/jidc.12600)
+- ``2.3 % (China)``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
 
 ## Asymptomatic transmission (now widely recognized in the scientific community)
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
