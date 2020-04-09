@@ -9,6 +9,8 @@ Note: The date (yy/mm/dd) specifies when the article was posted and its link red
 NPR means "Not Peer Reviewed".
 
 ## Basic Reproduction Number (R0)
+- ``Range = 3.80 - 8.90`` [20/04/07](https://doi.org/10.3201/eid2607.200282)
+- ``Range = 1.40 - 3.90`` [20/03/26](https://doi.org/10.1056/NEJMoa2001316)
 - ``Range = 2.24 - 3.58`` [20/03/01](https://doi.org/10.1016/j.ijid.2020.01.050)
 - ``Range = 2.47 – 2.86`` [20/02/29](https://doi.org/10.1016/S0140-6736(20)30260-9)
 
