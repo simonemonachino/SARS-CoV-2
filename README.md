@@ -76,6 +76,9 @@ NPR means "Not Peer Reviewed".
 - ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
 
 ## Clinical trials of investigational vaccine for COVID-19
+- ``ChAdOx1 nCoV-19`` [Start: April 2020 - Estimated Completion: May 2021](https://clinicaltrials.gov/ct2/show/NCT04324606) (Phase 1)
+- ``bacTRL-Spike`` [Start: 30 April 2020 - Estimated Completion: 31 December 2021](https://clinicaltrials.gov/ct2/show/NCT04334980) (Phase 1)
+- ``BCG`` [Start: 25 March 2020 - Estimated Completion: 25 December 2020](https://clinicaltrials.gov/ct2/show/NCT04328441) (Phase 3)
 - ``LV-SMENP`` [Start: 24 March 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04276896) (Phase 1 - 2)
 - ``Recombinant novel coronavirus vaccine (adenovirus type 5 vector)`` [Start: 16 March 2020 - Estimated Completion: 20 December 2022](https://clinicaltrials.gov/ct2/show/study/NCT04313127) (Phase 1)
 - ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461) (Phase 1)
