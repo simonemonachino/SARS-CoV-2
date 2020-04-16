@@ -106,3 +106,7 @@ NPR means "Not Peer Reviewed".
 - ``Darunavir and Cobicistat`` [Start: 30 January 2020 - Estimated Completion: 31 December 2020](https://clinicaltrials.gov/ct2/show/NCT04252274) (Phase 3)
 - ``Methylprednisolone`` [Start: 26 January 2020 - Estimated Completion: 25 December 2020](https://clinicaltrials.gov/ct2/show/NCT04316377) (Phase 2)
 - ``Vitamin C`` [Start: 8 November 2018 - Estimated Completion: 31 December 2022](https://clinicaltrials.gov/ct2/show/NCT04264533) (Phase 3)
+
+## Intermittent social distancing proposals:
+- ``Until 2022`` [20/04/14](http://doi.org/10.1126/science.abb5793)
+- ``Until a vaccine becomes available (potentially 18 months or more)`` [20/03/16](https://doi.org/10.25561/77482)
