@@ -55,6 +55,7 @@ NPR means "Not Peer Reviewed".
 - ``2.3 % (China)``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
 
 ## Asymptomatic transmission (now widely recognized in the scientific community)
+- ``Yes`` [20/04/16](https://doi.org/10.1101/2020.04.17.20053157) (NPR)
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
 ## Classification
