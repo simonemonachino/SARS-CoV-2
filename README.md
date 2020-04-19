@@ -34,6 +34,9 @@ NPR means "Not Peer Reviewed".
 ## Observed possibility of Reinfection
 - ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
 
+## Antibodies presence in patients who recovered
+- ``Not detectable in 5.7 %  of patients (n = 175)`` [20/04/06](https://doi.org/10.1101/2020.03.30.20047365) (NPR)
+
 ## Observed positive test results in patients recovered from COVID-19 after resulting negative
 - ``Yes (Stool) `` [20/03/29](https://doi.org/10.1002/jmv.25795)
 - ``Yes (RT-PCR)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226)
