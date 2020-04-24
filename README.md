@@ -59,7 +59,7 @@ NPR means "Not Peer Reviewed".
 - ``Yes`` [20/04/17](https://doi.org/10.1101/2020.04.16.20067405) (NPR)
 - ``Yes`` [20/04/16](https://dx.doi.org/10.2139/ssrn.3572548) 
 - ``Yes`` [20/04/07](https://doi.org/10.1101/2020.04.05.20054502)
-- ``Yes`` [20/04/04](https://doi.org/10.1101/2020.04.05.20054502)(https://doi.org/10.1016/j.envpol.2020.114465)
+- ``Yes`` [20/04/04](https://doi.org/10.1016/j.envpol.2020.114465)
 
 
 ## Asymptomatic transmission (now widely recognized in the scientific community)
