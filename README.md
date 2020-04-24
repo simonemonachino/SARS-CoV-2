@@ -21,6 +21,7 @@ NPR means "Not Peer Reviewed".
 - ``Range = 4.1 - 7.00 days. Mean = 5.2 days (n = 425)`` [20/01/29](https://doi.org/10.1056/NEJMoa2001316)
 
 ## Detected presence in Aerosol (airborne transmissibility)
+- ``Yes (Up to 16 Hours. Half-life = 1.1 hours)`` [20/04/18](https://doi.org/10.1101/2020.04.13.20063784) (NPR)
 - ``Likely`` [20/04/10](https://doi.org/10.1016/j.envint.2020.105730)
 - ``Yes`` [20/03/26](https://doi.org/10.1101/2020.03.23.20039446) (NPR)
 - ``Yes (Up to 3 Hours. Half-life = 1.1 hours)`` [20/03/17](https://doi.org/10.1056/NEJMc2004973)
@@ -53,6 +54,13 @@ NPR means "Not Peer Reviewed".
 - ``Range: 0.25 % – 3.00 % (World)`` [20/03/13](https://doi.org/10.3201/eid2606.200320)
 - ``2.3 % (China)``[20/02/29](https://doi.org/10.3855/jidc.12600)
 - ``2.3 % (China)``[20/02/24](https://doi.org/10.1001/jama.2020.2648)
+
+## Role of pollution in SARS-CoV-2 diffusion
+- ``Yes`` [20/04/17](https://doi.org/10.1101/2020.04.16.20067405) (NPR)
+- ``Yes`` [20/04/16](https://dx.doi.org/10.2139/ssrn.3572548) 
+- ``Yes`` [20/04/07](https://doi.org/10.1101/2020.04.05.20054502)
+- ``Yes`` [20/04/04](https://doi.org/10.1101/2020.04.05.20054502)(https://doi.org/10.1016/j.envpol.2020.114465)
+
 
 ## Asymptomatic transmission (now widely recognized in the scientific community)
 - ``Yes`` [20/04/16](https://doi.org/10.1101/2020.04.17.20053157) (NPR)
