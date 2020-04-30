@@ -87,14 +87,22 @@ NPR means "Not Peer Reviewed".
 - Full sequence: [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta)
 
 ## Potential Seasonal Behavior
+- ``Yes``[22/04/19](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
+- ``Yes``[20/04/19](https://doi.org/10.1016/j.scitotenv.2020.138778)
+- ``No`` [20/04/07](https://doi.org/10.1101/2020.04.03.20052787) (NPR)
+- ``No`` [20/03/29](https://doi.org/10.1183/13993003.00517-2020)
+- ``No`` [20/03/19](http://dx.doi.org/10.2139/ssrn.3556998)
 - ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
 
 ## Clinical trials of investigational vaccine for COVID-19
+- ``SARS-CoV-2 rS`` [Start: 15 May 2020 - Estimated Completion: 31 July 2021](https://clinicaltrials.gov/ct2/show/NCT04368988) (Phase 1)
+- ``BNT162`` [Start: 28 April 2020 - Estimated Completion: 27 January 2023](https://clinicaltrials.gov/ct2/show/NCT04368728) (Phase 1 - 2)
+- ``INO-4800`` [Start: 3 April 2020 - Estimated Completion: April 2021](https://clinicaltrials.gov/ct2/show/NCT04336410) (Phase 1)
 - ``ChAdOx1 nCoV-19`` [Start: April 2020 - Estimated Completion: May 2021](https://clinicaltrials.gov/ct2/show/NCT04324606) (Phase 1)
 - ``bacTRL-Spike`` [Start: 30 April 2020 - Estimated Completion: 31 December 2021](https://clinicaltrials.gov/ct2/show/NCT04334980) (Phase 1)
 - ``BCG`` [Start: 25 March 2020 - Estimated Completion: 25 December 2020](https://clinicaltrials.gov/ct2/show/NCT04328441) (Phase 3)
 - ``LV-SMENP`` [Start: 24 March 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04276896) (Phase 1 - 2)
-- ``Recombinant novel coronavirus vaccine (adenovirus type 5 vector)`` [Start: 16 March 2020 - Estimated Completion: 20 December 2022](https://clinicaltrials.gov/ct2/show/study/NCT04313127) (Phase 1)
+- ``Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)`` [Start: 16 March 2020 - Estimated Completion: 20 December 2022](https://clinicaltrials.gov/ct2/show/study/NCT04313127) (Phase 1)
 - ``mRNA-1273`` [Start: 3 March 2020 - Estimated Completion: 1 June 2021](https://clinicaltrials.gov/ct2/show/NCT04283461) (Phase 1)
 - ``aAPC`` [Start: 15 February 2020 - Estimated Completion: 31 December 2024](https://clinicaltrials.gov/ct2/show/NCT04299724)
 (Phase 1)
