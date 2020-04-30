@@ -36,7 +36,8 @@ NPR means "Not Peer Reviewed".
 - ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
 
 ## Antibodies presence in patients who recovered
-- ``Not detectable in 5.7 %  of patients (n = 175)`` [20/04/06](https://doi.org/10.1101/2020.03.30.20047365) (NPR)
+- ``Detectable in 100% of patients (n = 285)`` [20/04/29](https://doi.org/10.1038/s41591-020-0897-1)
+- ``detectable in 94.3 %  of patients (n = 175)`` [20/04/06](https://doi.org/10.1101/2020.03.30.20047365) (NPR)
 
 ## Observed positive test results in patients recovered from COVID-19 after resulting negative
 - ``Yes (Stool) `` [20/03/29](https://doi.org/10.1002/jmv.25795)
