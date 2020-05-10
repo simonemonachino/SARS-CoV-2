@@ -67,6 +67,16 @@ NPR means "Not Peer Reviewed".
 - ``Yes`` [20/04/16](https://doi.org/10.1101/2020.04.17.20053157) (NPR)
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
+## Potential Seasonal Behavior
+- ``Yes``[22/04/25](https://doi.org/10.1016/j.scitotenv.2020.138862)
+- ``Yes``[22/04/19](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
+- ``Yes``[20/04/19](https://doi.org/10.1016/j.scitotenv.2020.138778)
+- ``Yes``[20/04/07](https://doi.org/10.1101/2020.03.12.20034728) (NPR)
+- ``No`` [20/04/07](https://doi.org/10.1101/2020.04.03.20052787) (NPR)
+- ``No`` [20/03/29](https://doi.org/10.1183/13993003.00517-2020)
+- ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
+- ``Yes``[20/03/10](doi:10.2139/ssrn.3551767)
+
 ## Classification
 - ``Superkingdom:`` Viruses
 - ``Realm:`` Riboviria
@@ -85,15 +95,6 @@ NPR means "Not Peer Reviewed".
 ## Genome
 - Size: ``29903 bp`` [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 - Full sequence: [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta)
-
-## Potential Seasonal Behavior
-- ``Yes``[22/04/19](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
-- ``Yes``[20/04/19](https://doi.org/10.1016/j.scitotenv.2020.138778)
-- ``Yes``[20/04/07](https://doi.org/10.1101/2020.03.12.20034728) (NPR)
-- ``No`` [20/04/07](https://doi.org/10.1101/2020.04.03.20052787) (NPR)
-- ``No`` [20/03/29](https://doi.org/10.1183/13993003.00517-2020)
-- ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
-- ``Yes``[20/03/10](doi:10.2139/ssrn.3551767)
 
 ## Clinical trials of investigational vaccine for COVID-19
 - ``SARS-CoV-2 rS`` [Start: 15 May 2020 - Estimated Completion: 31 July 2021](https://clinicaltrials.gov/ct2/show/NCT04368988) (Phase 1)
