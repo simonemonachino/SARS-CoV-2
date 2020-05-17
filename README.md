@@ -68,8 +68,8 @@ NPR means "Not Peer Reviewed".
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
 ## Potential Seasonal Behavior
-- ``Yes``[22/04/25](https://doi.org/10.1016/j.scitotenv.2020.138862)
-- ``Yes``[22/04/19](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
+- ``Yes``[20/04/25](https://doi.org/10.1016/j.scitotenv.2020.138862)
+- ``Yes``[20/04/19](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
 - ``Yes``[20/04/19](https://doi.org/10.1016/j.scitotenv.2020.138778)
 - ``Yes``[20/04/07](https://doi.org/10.1101/2020.03.12.20034728) (NPR)
 - ``No`` [20/04/07](https://doi.org/10.1101/2020.04.03.20052787) (NPR)
