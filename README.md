@@ -96,6 +96,9 @@ NPR means "Not Peer Reviewed".
 - Size: ``29903 bp`` [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 - Full sequence: [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta)
 
+## Significant mutations
+- ``No`` [20/04/04](https://doi.org/10.1101/2020.03.30.016790)(NPR)
+
 ## Clinical trials of investigational vaccine for COVID-19
 - ``SARS-CoV-2 rS`` [Start: 15 May 2020 - Estimated Completion: 31 July 2021](https://clinicaltrials.gov/ct2/show/NCT04368988) (Phase 1)
 - ``BNT162`` [Start: 28 April 2020 - Estimated Completion: 27 January 2023](https://clinicaltrials.gov/ct2/show/NCT04368728) (Phase 1 - 2)
