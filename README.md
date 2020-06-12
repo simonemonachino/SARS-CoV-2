@@ -98,6 +98,11 @@ NPR means "Not Peer Reviewed".
 - Full sequence: [20/01/17](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta)
 
 ## Significant mutations
+- ``Yes`` [20/06/07](https://doi.org/10.1101/2020.06.06.137604) (NPR)
+- ``Yes`` [20/05/05](https://doi.org/10.1101/2020.04.29.069054) (NPR)
+- ``Maybe (198 Mutations)`` [20/05/05](https://doi.org/10.1016/j.meegid.2020.104351)
+- ``Maybe`` [20/05/01](https://doi.org/10.1128/JVI.00711-20)
+- ``Yes`` [20/04/23](https://doi.org/10.1101/2020.04.14.20060160)(NPR)
 - ``No`` [20/04/04](https://doi.org/10.1101/2020.03.30.016790)(NPR)
 
 ## Clinical trials of investigational vaccine for COVID-19
