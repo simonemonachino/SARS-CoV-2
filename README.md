@@ -45,6 +45,7 @@ NPR means "Not Peer Reviewed".
 - ``Yes (Stool) `` [20/03/14](https://doi.org/10.1053/j.gastro.2020.02.055)
 
 ## Case Fatality Rate (CFR) estimates
+- ``8.0 % (World, Corrected with Time Lag)``[20/06/19](https://doi.org/10.1016/j.jinf.2020.06.010)
 - ``7.2 % (Italy)``[20/03/23](https://doi:10.1001/jama.2020.4683)
 - ``2.3 % (China)``[20/03/23](https://doi:10.1001/jama.2020.4683)
 - ``3.4 % (World)``[20/03/19](https://doi.org/10.1016/j.ijantimicag.2020.105947)
