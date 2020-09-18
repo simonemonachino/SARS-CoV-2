@@ -10,6 +10,7 @@ NPR means "Not Peer Reviewed".
 
 ## Basic Reproduction Number (R0)
 - ``Range = 3.80 - 8.90`` [20/04/07](https://doi.org/10.3201/eid2607.200282)
+- ``Range = 2.43 – 3.10`` [20/04/02](https://doi.org/10.1016/j.bsheal.2020.03.004)
 - ``Range = 1.40 - 3.90`` [20/03/26](https://doi.org/10.1056/NEJMoa2001316)
 - ``Range = 2.24 - 3.58`` [20/03/01](https://doi.org/10.1016/j.ijid.2020.01.050)
 - ``Range = 2.47 – 2.86`` [20/02/29](https://doi.org/10.1016/S0140-6736(20)30260-9)
@@ -33,9 +34,9 @@ NPR means "Not Peer Reviewed".
 - ``Range = 12 - 32 Days (n = 4)`` [20/02/27](https://doi.org/10.1001/jama.2020.2783)
 
 ## Observed possibility of Reinfection
-- ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
 - ``Yes (in Homo sapiens)`` [20/08/25](https://doi.org/10.1093/cid/ciaa1275)
 - ``Yes (in Homo sapiens)`` [20/08/25](https://dx.doi.org/10.2139/ssrn.3680955)
+- ``No (in Macaca mulatta)`` [20/03/14](https://doi.org/10.1101/2020.03.13.990226) (NPR)
 
 ## Antibodies presence in patients who recovered
 - ``Detectable in 100% of patients (n = 285)`` [20/04/29](https://doi.org/10.1038/s41591-020-0897-1)
@@ -72,6 +73,7 @@ NPR means "Not Peer Reviewed".
 - ``Yes`` [20/03/19](https://doi.org/10.1056/NEJMc2001737)
 
 ## Potential Seasonal Behavior
+- ``Maybe``[20/06/26](https://doi.org/10.1186/s40249-020-00688-1)
 - ``Yes``[20/04/25](https://doi.org/10.1016/j.scitotenv.2020.138862)
 - ``Yes``[20/04/22](https://dx.doi.org/10.1016%2Fj.gsd.2020.100400)
 - ``Yes``[20/04/19](https://doi.org/10.1016/j.scitotenv.2020.138778)
@@ -80,7 +82,6 @@ NPR means "Not Peer Reviewed".
 - ``No`` [20/03/29](https://doi.org/10.1183/13993003.00517-2020)
 - ``No`` [20/03/12](https://dx.doi.org/10.2139/ssrn.3552677)
 - ``Yes``[20/03/10](https://doi:10.2139/ssrn.3551767)
-- ``Maybe``[20/06/26](https://doi.org/10.1186/s40249-020-00688-1)
 
 ## Classification
 - ``Superkingdom:`` Viruses
